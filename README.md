@@ -1,4 +1,4 @@
 codejam
 =======
 
-Google code jam solutions
+Google code jam solutions.
